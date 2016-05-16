@@ -1,0 +1,89 @@
+body {
+	background-color: #ffe6b3;
+}
+
+header, footer {
+	background-color: #ffcc66;
+}
+
+.navbar-default {
+	background-color: #ffcc66;
+	height: 100px;
+	padding-top: 20px;
+}
+
+.navbar-nav {
+	float: right;
+	padding-right: 30px;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.websitename {
+	font-family: 'IM Fell DW Pica', serif;
+	font-size: 100px;
+	text-shadow: white 5px 5px 9px;
+	float: left;
+	padding-left: 50px;
+}
+
+h6 {
+	font-family: sans-serif;
+	font-weight: 900;
+	text-indent: 50px;
+	padding-top: 10px;
+}
+
+.wrap {
+	padding-top: 20px;
+}
+
+.wrap img {
+	height: 300px;
+	width: 350px
+}
+
+.section-title {
+	font-family: sans-serif;
+	color: #595959;
+	text-align: center;
+	font-weight: 900;
+	font-style: normal;
+}
+
+.wrap p {
+	padding-top: 10px;
+}
+
+.hero p {
+	padding-left: 50px;
+	padding-top: 10px;
+}
+
+.hero img {
+	display: block;
+	padding-left: 50px;
+	height: 25%;
+	width: 95%
+}
+
+section {
+	font-family: sans-serif;
+	color: #595959;
+	font-style: oblique;
+}
+
+footer .row {
+	text-align: left;
+}
+
+.footer-wrap {
+	float: right;
+	padding-top: 8px;
+}
+
+a img{
+	height: 40px;
+	width: 40px;
+}
